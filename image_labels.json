@@ -1,0 +1,16 @@
+[
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img3.jpg",
+        "objects": [
+            {
+                "label": "Telivisjs1",
+                "coordinates": [
+                    27,
+                    48,
+                    251,
+                    260
+                ]
+            }
+        ]
+    }
+]
