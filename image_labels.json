@@ -1,14 +1,260 @@
 [
     {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chair1",
+                "coordinates": [
+                    82,
+                    64,
+                    511,
+                    370
+                ]
+            }
+        ]
+    },
+    {
         "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img3.jpg",
         "objects": [
             {
-                "label": "Telivisjs1",
+                "label": "Cell phone",
                 "coordinates": [
+                    20,
                     27,
-                    48,
-                    251,
-                    260
+                    59,
+                    76
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img3.jpg",
+        "objects": [
+            {
+                "label": "car2",
+                "coordinates": [
+                    8,
+                    15,
+                    264,
+                    167
+                ]
+            },
+            {
+                "label": "car",
+                "coordinates": [
+                    1,
+                    13,
+                    268,
+                    167
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chari2",
+                "coordinates": [
+                    77,
+                    106,
+                    542,
+                    481
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img12.jpg",
+        "objects": [
+            {
+                "label": "Bottle9",
+                "coordinates": [
+                    11,
+                    47,
+                    210,
+                    383
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chair65",
+                "coordinates": [
+                    104,
+                    101,
+                    574,
+                    460
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img15.jpg",
+        "objects": [
+            {
+                "label": "headphone",
+                "coordinates": [
+                    20,
+                    47,
+                    658,
+                    399
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img13.jpg",
+        "objects": [
+            {
+                "label": "headphone",
+                "coordinates": [
+                    18,
+                    64,
+                    615,
+                    423
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chari",
+                "coordinates": [
+                    149,
+                    118,
+                    681,
+                    519
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chair",
+                "coordinates": [
+                    117,
+                    94,
+                    613,
+                    470
+                ]
+            },
+            {
+                "label": "bench",
+                "coordinates": [
+                    111,
+                    104,
+                    600,
+                    482
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chari",
+                "coordinates": [
+                    70,
+                    95,
+                    529,
+                    455
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chari",
+                "coordinates": [
+                    90,
+                    68,
+                    539,
+                    363
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "hb",
+                "coordinates": [
+                    112,
+                    78,
+                    589,
+                    376
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chair",
+                "coordinates": [
+                    93,
+                    62,
+                    560,
+                    391
+                ]
+            },
+            {
+                "label": "bench",
+                "coordinates": [
+                    85,
+                    59,
+                    557,
+                    415
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img3.jpg",
+        "objects": [
+            {
+                "label": "tv2",
+                "coordinates": [
+                    20,
+                    37,
+                    240,
+                    235
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_images/img18.jpg",
+        "objects": [
+            {
+                "label": "chair",
+                "coordinates": [
+                    93,
+                    73,
+                    558,
+                    413
+                ]
+            },
+            {
+                "label": "bench",
+                "coordinates": [
+                    86,
+                    70,
+                    557,
+                    445
                 ]
             }
         ]

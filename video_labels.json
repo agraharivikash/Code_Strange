@@ -1,0 +1,57 @@
+[
+    {
+        "video_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_video/vid2.mp4",
+        "objects": [
+            {
+                "label": "bottle",
+                "coordinates": [
+                    48,
+                    176,
+                    295,
+                    970
+                ],
+                "timestamp": 3.4952333333333336
+            }
+        ]
+    },
+    {
+        "video_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_video/vid2.mp4",
+        "objects": [
+            {
+                "label": "person",
+                "coordinates": [
+                    0,
+                    149,
+                    39,
+                    460
+                ],
+                "timestamp": 3.4952333333333336
+            }
+        ]
+    },
+    {
+        "video_path": "C:/Users/Vikash Agrahari/Desktop/test1/test_video/vid2.mp4",
+        "objects": [
+            {
+                "label": "bottle",
+                "coordinates": [
+                    75,
+                    166,
+                    331,
+                    935
+                ],
+                "timestamp": 3.4952333333333336
+            },
+            {
+                "label": "bottle",
+                "coordinates": [
+                    74,
+                    131,
+                    326,
+                    884
+                ],
+                "timestamp": 3.4952333333333336
+            }
+        ]
+    }
+]
