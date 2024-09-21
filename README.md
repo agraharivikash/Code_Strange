@@ -13,7 +13,9 @@ after installation of these liabraries run the file in a dedicated python termin
 use the given video or image using the user interface and detect the object
 
 # the folder structure to make this project work
- main folder-app.py
+ main folder-
+              
+             app.py
  
              yolov5s.pt
              
