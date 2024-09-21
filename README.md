@@ -14,12 +14,19 @@ use the given video or image using the user interface and detect the object
 
 # the folder structure to make this project work
  main folder-app.py
+ 
              yolov5s.pt
+             
              image_labels.json
+             
              video_labels.json
+             
              test_images-
+             
                          all jpg, png jpeg files
+                         
              test_video-
+             
                          all mkv files
 
 
